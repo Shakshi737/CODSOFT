@@ -14,8 +14,10 @@ An unbeatable Tic-Tac-Toe game played against an AI agent using the Minimax algo
 - **Features**: Minimax Algorithm, Unbeatable AI, Console Interface.
 - **Tech Stack**: Python.
 
-### 3. Project 3 (Coming Soon)
-Placeholder for the final task.
+### 3. [Movie Recommendation System](./RecommendationSystem)
+A content-based movie recommendation system using TF-IDF and cosine similarity.
+- **Features**: Content-Based Filtering, TF-IDF Vectorization, Cosine Similarity.
+- **Tech Stack**: Python, pandas, scikit-learn.
 
 ## Author
 Shakshi Kumari
