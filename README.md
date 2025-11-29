@@ -9,8 +9,10 @@ A simple chatbot that responds to user inputs based on predefined rules and patt
 - **Features**: Greetings, Jokes, Fun Facts, Motivation, Weather, Advice.
 - **Tech Stack**: Python.
 
-### 2. Project 2 (Coming Soon)
-Placeholder for the next task.
+### 2. [Tic-Tac-Toe AI](./TicTacToe)
+An unbeatable Tic-Tac-Toe game played against an AI agent using the Minimax algorithm.
+- **Features**: Minimax Algorithm, Unbeatable AI, Console Interface.
+- **Tech Stack**: Python.
 
 ### 3. Project 3 (Coming Soon)
 Placeholder for the final task.
