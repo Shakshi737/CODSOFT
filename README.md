@@ -16,4 +16,4 @@ Placeholder for the next task.
 Placeholder for the final task.
 
 ## Author
-[Your Name]
+Shakshi Kumari
