@@ -1,23 +1,19 @@
-# Rule-Based Chatbot
+# CODSOFT Internship Projects
 
-A simple rule-based chatbot built with Python for the CODSOFT internship.
+This repository contains the projects completed during my Artificial Intelligence internship at CODSOFT.
 
-## Features
-- **Conversational**: Handles greetings, goodbyes, and small talk.
-- **Informative**: Can tell the time, date, and answer FAQs about CODSOFT and AI.
-- **Fun**: Tells jokes, fun facts, and motivational quotes.
-- **Helpful**: Provides basic advice and weather responses.
+## Projects
 
-## How to Run
-1. Ensure you have Python installed.
-2. Clone this repository.
-3. Run the script:
-   ```bash
-   python chatbot.py
-   ```
+### 1. [Rule-Based Chatbot](./Chatbot)
+A simple chatbot that responds to user inputs based on predefined rules and patterns.
+- **Features**: Greetings, Jokes, Fun Facts, Motivation, Weather, Advice.
+- **Tech Stack**: Python.
 
-## Usage
-Type your message and press Enter. Type `exit` or `quit` to end the conversation.
+### 2. Project 2 (Coming Soon)
+Placeholder for the next task.
+
+### 3. Project 3 (Coming Soon)
+Placeholder for the final task.
 
 ## Author
-Created by [Your Name] for CODSOFT Internship.
+[Your Name]
