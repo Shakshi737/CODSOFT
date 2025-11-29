@@ -20,4 +20,4 @@ A simple rule-based chatbot built with Python for the CODSOFT internship.
 Type your message and press Enter. Type `exit` or `quit` to end the conversation.
 
 ## Author
-Created by [Your Name] for CODSOFT Internship.
+Created by Shakshi Kumari for CODSOFT Internship.
